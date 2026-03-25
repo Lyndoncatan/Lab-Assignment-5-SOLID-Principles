@@ -1,4 +1,6 @@
 # Lab Assignment 5 — SOLID Principles
+## UML 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/37b79894-047e-4e25-b243-691afb07c064" />
 
 ## Problem Description
 
